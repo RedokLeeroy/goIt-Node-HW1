@@ -1,0 +1,28 @@
+{
+  "name": "goit-node-hw1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "start:dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RedokLeeroy/goIt-Node-HW1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RedokLeeroy/goIt-Node-HW1/issues"
+  },
+  "homepage": "https://github.com/RedokLeeroy/goIt-Node-HW1#readme",
+  "dependencies": {
+    "commander": "^9.4.0",
+    "nanoid": "^4.0.0",
+    "nodemon": "^2.0.19",
+    "yargs": "^17.5.1"
+  }
+}
